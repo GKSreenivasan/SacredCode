@@ -1,5 +1,22 @@
 {
   "data": [
-    ""
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/fehu.png",
+      "name": "Fehu",
+      "meaning": "Abundance, luck, hope, prosperity, wealth, fortune.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/uruz.png",
+      "name": "Uruz",
+      "meaning": "Strength, endurance, health, courage, vigor, force.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/thurisaz.png",
+      "name": "Thurisaz",
+      "meaning": "Challenges, danger, protection, strength, attacks.",
+      "bgColor": "#FFF3E0"
+    }
   ]
 }
