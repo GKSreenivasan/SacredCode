@@ -1,5 +1,5 @@
 {
-  "SwitchWord": {
+  "switchWord": {
     "introCard": {
       "title": "What are SwitchWords?",
       "body": "SwitchWords are short words or phrases used as focus triggers.You repeat one with a clear intention to support a specific need."
@@ -42,7 +42,7 @@
       ]
     }
   },
-  "SacredCode": {
+  "sacredCode": {
     "introCard": {
       "title": "What are Sacred Codes?",
       "body": "Sacred codes are number sequences to focus your mind and align your energy for manifestation."
@@ -89,7 +89,7 @@
       ]
     }
   },
-  "GrabovoiCode": {
+  "grabovoiCode": {
     "introCard": {
       "title": "What are Grabovoi Code?",
       "body": "Powerful number codes for focus, calm, and positive intention."
