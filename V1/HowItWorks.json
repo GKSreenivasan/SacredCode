@@ -1,0 +1,139 @@
+{
+  "SwitchWord": {
+    "introCard": {
+      "title": "What are SwitchWords?",
+      "body": "SwitchWords are short words or phrases used as focus triggers.You repeat one with a clear intention to support a specific need."
+    },
+    "stepsCard": {
+      "label": "How to Use Them?",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Pick a need",
+          "detail": "Choose what you want support with, like calm or focus."
+        },
+        {
+          "number": 2,
+          "title": "Repeat the word",
+          "detail": "Say it slowly, aloud or silently, several times."
+        },
+        {
+          "number": 3,
+          "title": "Visualize and feel it",
+          "detail": "Picture the result and stay with that feeling."
+        }
+      ]
+    },
+    "faqsCard": {
+      "label": "Tips and FAQ",
+      "faqs": [
+        {
+          "question": "How often should I use a switch word?",
+          "answer": "Once or twice a day is a good start."
+        },
+        {
+          "question": "Can I use more than one?",
+          "answer": "Yes, but focus on one need at a time."
+        },
+        {
+          "question": "When is the best time?",
+          "answer": "Mornings and before sleep work well for many people."
+        }
+      ]
+    }
+  },
+  "SacredCode": {
+    "introCard": {
+      "title": "What are Sacred Codes?",
+      "body": "Sacred codes are number sequences to focus your mind and align your energy for manifestation."
+    },
+    "stepsCard": {
+      "label": "How to Use Them?",
+      "steps": [
+        {
+          "number": 1,
+          "title": "SET YOUR INTENTION",
+          "detail": "State clearly what you want to manifest or achieve."
+        },
+        {
+          "number": 2,
+          "title": "REPEAT THE CODE 45 TIMES",
+          "detail": "Say the exact number 45 times (e.g., Code 520 for Money). | | You can say it out loud, silently, or break down digits | | (Five-Two-Zero or Five Hundred and Twenty)."
+        },
+        {
+          "number": 3,
+          "title": "USE A COUNTING STRING",
+          "detail": "Use a necklace or bracelet with 45 beads to stay on track | | without losing focus by counting manually."
+        },{
+          "number": 4,
+          "title": "CLOSE WITH GRATITUDE",
+          "detail": "Seal the intention by saying: \"Thank you, it is done.\""
+        }
+      ]
+    },
+    "faqsCard": {
+      "label": "Tips and FAQ",
+      "faqs": [
+        {
+          "question": "How often should I use a sacred code?",
+          "answer": "Once or twice a day is a good start."
+        },
+        {
+          "question": "Can I use more than one?",
+          "answer": "Yes, but focus on one need at a time."
+        },
+        {
+          "question": "When is the best time?",
+          "answer": "Mornings and before sleep work well for many people."
+        }
+      ]
+    }
+  },
+  "GrabovoiCode": {
+    "introCard": {
+      "title": "What are Grabovoi Code?",
+      "body": "Powerful number codes for focus, calm, and positive intention."
+    },
+    "stepsCard": {
+      "label": "How to Use Them?",
+      "steps": [
+        {
+          "number": 1,
+          "title": "SET YOUR INTENTION",
+          "detail": "State clearly what you want to manifest or heal."
+        },
+        {
+          "number": 2,
+          "title": "REPEAT THE CODE 45 TIMES",
+          "detail": "Say the exact number 45 times (e.g., Code 520 for Money). | | You can say it out loud, silently, or break down digits | | (Five-Two-Zero or Five Hundred and Twenty)."
+        },
+        {
+          "number": 3,
+          "title": "USE A COUNTING STRING",
+          "detail": "Use a necklace or bracelet with 45 beads to stay on track | | without losing focus by counting manually."
+        },{
+          "number": 4,
+          "title": "CLOSE WITH GRATITUDE",
+          "detail": "Seal the intention by saying: \"Thank you, it is done.\""
+        }
+      ]
+    },
+    "faqsCard": {
+      "label": "Tips and FAQ",
+      "faqs": [
+        {
+          "question": "How often should I use a sacred code?",
+          "answer": "Once or twice a day is a good start."
+        },
+        {
+          "question": "Can I use more than one?",
+          "answer": "Yes, but focus on one need at a time."
+        },
+        {
+          "question": "When is the best time?",
+          "answer": "Mornings and before sleep work well for many people."
+        }
+      ]
+    }
+  }
+}
