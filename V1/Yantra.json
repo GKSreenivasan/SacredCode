@@ -164,6 +164,159 @@
         "4"
       ],
       "purpose": "Job Manifestation"
+    },
+    {
+      "contentColor": "#D9381E",
+      "yantraSize": 3,
+      "content": [
+        "6",
+        "1",
+        "8",
+        "7",
+        "5",
+        "3",
+        "2",
+        "9",
+        "4"
+      ],
+      "purpose": "Yantra for Planet Sun",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#E2E8F0",
+      "yantraSize": 3,
+      "content": [
+        "7",
+        "2",
+        "9",
+        "8",
+        "6",
+        "4",
+        "3",
+        "10",
+        "5"
+      ],
+      "purpose": "Yantra for Planet Moon",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#E53935",
+      "yantraSize": 3,
+      "content": [
+        "8",
+        "3",
+        "10",
+        "9",
+        "7",
+        "5",
+        "4",
+        "11",
+        "6"
+      ],
+      "purpose": "Yantra for Planet Mars",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#2E7D32",
+      "yantraSize": 3,
+      "content": [
+        "9",
+        "4",
+        "11",
+        "10",
+        "8",
+        "6",
+        "5",
+        "12",
+        "7"
+      ],
+      "purpose": "Yantra for Planet Mercury",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#FBC02D",
+      "yantraSize": 3,
+      "content": [
+        "10",
+        "5",
+        "12",
+        "11",
+        "9",
+        "7",
+        "6",
+        "13",
+        "8"
+      ],
+      "purpose": "Yantra for Planet Jupiter",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#F8BBD0",
+      "yantraSize": 3,
+      "content": [
+        "11",
+        "6",
+        "13",
+        "12",
+        "10",
+        "8",
+        "7",
+        "14",
+        "9"
+      ],
+      "purpose": "Yantra for Planet Venus",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#1A237E",
+      "yantraSize": 3,
+      "content": [
+        "12",
+        "7",
+        "14",
+        "13",
+        "11",
+        "9",
+        "8",
+        "15",
+        "10"
+      ],
+      "purpose": "Yantra for Planet Saturn",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#78909C",
+      "yantraSize": 3,
+      "content": [
+        "13",
+        "8",
+        "15",
+        "14",
+        "12",
+        "10",
+        "9",
+        "16",
+        "11"
+      ],
+      "purpose": "Yantra for Planet Rahu",
+      "placeHolder": ""
+    },
+    {
+      "contentColor": "#8D6E63",
+      "yantraSize": 3,
+      "content": [
+        "14",
+        "9",
+        "16",
+        "15",
+        "13",
+        "11",
+        "10",
+        "17",
+        "12"
+      ],
+      "purpose": "Yantra for Planet Ketu",
+      "placeHolder": ""
     }
   ]
 }
