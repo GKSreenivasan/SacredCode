@@ -20,6 +20,135 @@
       "name": "Thurisaz",
       "meaning": "Challenges, danger, protection, strength, attacks.",
       "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ansuz.png",
+      "name": "Ansuz",
+      "meaning": "Revelation, visions, insight, signs, communication.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/raido.png",
+      "name": "Raidho",
+      "meaning": "Progress, movement, journeys, traveling, evolution.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/kano.png",
+      "name": "Kauna",
+      "meaning": "Enlightenment, insight, knowledge, insight, calling.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/wunjo.png",
+      "name": "Wunjo",
+      "meaning": "Pleasure, joy, feasting, celebrations, festivity, success.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/gebo.png",
+      "name": "Gebo",
+      "meaning": "",
+      "bgColor": "#FFF3E0"
+    },
+
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/hagalaz.png",
+      "name": "Hagalaz",
+      "meaning": "Destruction, wrath of nature, force, testing, change.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/nauthiz.png",
+      "name": "Naudiz",
+      "meaning": "Need, restriction, resistance, survival, agreements.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/isa.png",
+      "name": "Isaz",
+      "meaning": "Suspension, delay, blocks, stillness, waiting, pausing.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/jera.png",
+      "name": "Jera",
+      "meaning": "Year, endings beginnings, harvest, abundance, learning.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/eihwaz.png",
+      "name": "Eihwaz",
+      "meaning": "",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/rerth.png",
+      "name": "Rerth",
+      "meaning": "Mysteries, fortune, chance, mysticism, unknown.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/algiz.png",
+      "name": "Algiz",
+      "meaning": "Guardians, defense, instincts, courage, awakenings.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/sowelu.png",
+      "name": "Sowilo",
+      "meaning": "Success, vitality, joy, justice, happiness, inspiration.",
+      "bgColor": "#FFF3E0"
+    },
+
+
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/teiwaz.png",
+      "name": "Tiwaz",
+      "meaning": "Leadership, victory, honor, bravery, courage.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/berkana.png",
+      "name": "Berkana",
+      "meaning": "Fertility, renewal, growth, creation, creativity.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ehwaz.png",
+      "name": "Ehwaz",
+      "meaning": "Movement, loyalty, friendship, assistance, animal.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/lagus.png",
+      "name": "Laguz",
+      "meaning": "Water, intuition, dream, imagination, healing, instinct.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/mannaz.png",
+      "name": "Mannaz",
+      "meaning": "Virility, inner growth, virtue, peace, harmony.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/dagaz.png",
+      "name": "Dagaz",
+      "meaning": "Awakening, clarity, consciousness, balance, growth.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/othila.png",
+      "name": "Othala",
+      "meaning": "Legacy, inheritance, abundance, values, family.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/inguz.png",
+      "name": "Inguz",
+      "meaning": "",
+      "bgColor": "#FFF3E0"
     }
   ]
 }
