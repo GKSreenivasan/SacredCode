@@ -6,148 +6,145 @@
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/fehu.png",
       "name": "Fehu",
-      "meaning": "Abundance, luck, hope, prosperity, wealth, fortune.",
+      "meaning": "Livestock / Wealth: Symbolizes wealth, abundance, success, security, and fertility.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/uruz.png",
       "name": "Uruz",
-      "meaning": "Strength, endurance, health, courage, vigor, force.",
+      "meaning": "Wild Bull / Aurochs: Symbolizes strength, tenacity, courage, endurance, and untamed potential.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/thurisaz.png",
       "name": "Thurisaz",
-      "meaning": "Challenges, danger, protection, strength, attacks.",
+      "meaning": "Thorn / Giant: Symbolizes reaction, defense, conflict, catharsis, or unexpected challenges.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ansuz.png",
       "name": "Ansuz",
-      "meaning": "Revelation, visions, insight, signs, communication.",
+      "meaning": "God / Estuary: Symbolizes communication, the mouth, inspiration, and understanding.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/raido.png",
       "name": "Raidho",
-      "meaning": "Progress, movement, journeys, traveling, evolution.",
+      "meaning": "Wagon / Ride: Symbolizes travel, rhythm, movement, evolution, and decisions.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/kano.png",
       "name": "Kauna",
-      "meaning": "Enlightenment, insight, knowledge, insight, calling.",
-      "bgColor": "#FFF3E0"
-    },
-    {
-      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/wunjo.png",
-      "name": "Wunjo",
-      "meaning": "Pleasure, joy, feasting, celebrations, festivity, success.",
+      "meaning": "Torch: Symbolizes vision, creativity, inner fire, inspiration, and vitality.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/gebo.png",
       "name": "Gebo",
-      "meaning": "",
+      "meaning": "Gift: Symbolizes balance, exchange, partnership, generosity, and relationships.",
       "bgColor": "#FFF3E0"
     },
-
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/wunjo.png",
+      "name": "Wunjo",
+      "meaning": "Joy: Symbolizes pleasure, comfort, harmony, prosperity, and emotional reward.",
+      "bgColor": "#FFF3E0"
+    },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/hagalaz.png",
       "name": "Hagalaz",
-      "meaning": "Destruction, wrath of nature, force, testing, change.",
+      "meaning": "Hail: Symbolizes disruption, natural wrath, being tested, and overcoming obstacles.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/nauthiz.png",
       "name": "Naudiz",
-      "meaning": "Need, restriction, resistance, survival, agreements.",
+      "meaning": "Need: Symbolizes necessity, patience, hardship, and endurance through constraints.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/isa.png",
       "name": "Isaz",
-      "meaning": "Suspension, delay, blocks, stillness, waiting, pausing.",
+      "meaning": "Ice: Symbolizes stillness, stagnation, patience, and plans temporarily on hold.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/jera.png",
       "name": "Jera",
-      "meaning": "Year, endings beginnings, harvest, abundance, learning.",
+      "meaning": "Year / Harvest: Symbolizes the harvest, reaping rewards for past efforts, and natural cycles.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/eihwaz.png",
       "name": "Eihwaz",
-      "meaning": "",
+      "meaning": "Yew Tree: Symbolizes transformation, endurance, reliability, and deep defense.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/rerth.png",
-      "name": "Rerth",
-      "meaning": "Mysteries, fortune, chance, mysticism, unknown.",
+      "name": "Perthro",
+      "meaning": "Mystery / Cup: Symbolizes mystery, fate, the unknown, and hidden opportunities.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/algiz.png",
       "name": "Algiz",
-      "meaning": "Guardians, defense, instincts, courage, awakenings.",
+      "meaning": "Elk / Protection: Symbolizes divine protection, sanctuary, higher guidance, and warding.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/sowelu.png",
       "name": "Sowilo",
-      "meaning": "Success, vitality, joy, justice, happiness, inspiration.",
+      "meaning": "Sun: Symbolizes achievement, success, vitality, life force, and clarity.",
       "bgColor": "#FFF3E0"
     },
-
-
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/teiwaz.png",
       "name": "Tiwaz",
-      "meaning": "Leadership, victory, honor, bravery, courage.",
+      "meaning": "The God Tyr: Symbolizes justice, honor, leadership, balance, and logical direction.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/berkana.png",
       "name": "Berkana",
-      "meaning": "Fertility, renewal, growth, creation, creativity.",
+      "meaning": "Birch Tree: Symbolizes the divine feminine, growth, new beginnings, and fertility.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ehwaz.png",
       "name": "Ehwaz",
-      "meaning": "Movement, loyalty, friendship, assistance, animal.",
-      "bgColor": "#FFF3E0"
-    },
-    {
-      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/lagus.png",
-      "name": "Laguz",
-      "meaning": "Water, intuition, dream, imagination, healing, instinct.",
+      "meaning": "Horse: Symbolizes transportation, movement, progress, trust, and teamwork.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/mannaz.png",
       "name": "Mannaz",
-      "meaning": "Virility, inner growth, virtue, peace, harmony.",
+      "meaning": "Humanity / Person: Symbolizes individuality, friendship, society, cooperation, and the human condition.",
       "bgColor": "#FFF3E0"
     },
     {
-      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/dagaz.png",
-      "name": "Dagaz",
-      "meaning": "Awakening, clarity, consciousness, balance, growth.",
-      "bgColor": "#FFF3E0"
-    },
-    {
-      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/othila.png",
-      "name": "Othala",
-      "meaning": "Legacy, inheritance, abundance, values, family.",
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/lagus.png",
+      "name": "Laguz",
+      "meaning": "Water: Symbolizes intuition, emotions, flow, renewal, and the subconscious.",
       "bgColor": "#FFF3E0"
     },
     {
       "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/inguz.png",
       "name": "Inguz",
-      "meaning": "",
+      "meaning": "The God Ing (Seed): Symbolizes goals, internal growth, completion, and the hearth.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/othila.png",
+      "name": "Othala",
+      "meaning": "Inheritance / Estate: Symbolizes ancestry, inherited property, heritage, and home.",
+      "bgColor": "#FFF3E0"
+    },
+    {
+      "icon": "https://gksreenivasan.github.io/SacredCode/V1/Runes/dagaz.png",
+      "name": "Dagaz",
+      "meaning": "Dawn / Day: Symbolizes awakening, certainty, illumination, breakthrough, and hope.",
       "bgColor": "#FFF3E0"
     }
   ]
