@@ -11,7 +11,7 @@
       "glyph": "ᚠ",
       "sound": "F",
       "aett": "Freyr's ætt",
-      "literal_meaning": "cattle, wealth",
+      "literalMeaning": "cattle, wealth",
       "keywords": [
         "wealth",
         "abundance",
@@ -32,7 +32,7 @@
       "glyph": "ᚢ",
       "sound": "U",
       "aett": "Freyr's ætt",
-      "literal_meaning": "aurochs",
+      "literalMeaning": "aurochs",
       "keywords": [
         "strength",
         "vitality",
@@ -53,7 +53,7 @@
       "glyph": "ᚦ",
       "sound": "Th",
       "aett": "Freyr's ætt",
-      "literal_meaning": "giant, thorn",
+      "literalMeaning": "giant, thorn",
       "keywords": [
         "protection",
         "conflict",
@@ -74,7 +74,7 @@
       "glyph": "ᚨ",
       "sound": "A",
       "aett": "Freyr's ætt",
-      "literal_meaning": "a god, mouth",
+      "literalMeaning": "a god, mouth",
       "keywords": [
         "communication",
         "wisdom",
@@ -95,7 +95,7 @@
       "glyph": "ᚱ",
       "sound": "R",
       "aett": "Freyr's ætt",
-      "literal_meaning": "ride, journey",
+      "literalMeaning": "ride, journey",
       "keywords": [
         "journey",
         "movement",
@@ -116,7 +116,7 @@
       "glyph": "ᚲ",
       "sound": "K",
       "aett": "Freyr's ætt",
-      "literal_meaning": "torch",
+      "literalMeaning": "torch",
       "keywords": [
         "knowledge",
         "creativity",
@@ -137,7 +137,7 @@
       "glyph": "ᚷ",
       "sound": "G",
       "aett": "Freyr's ætt",
-      "literal_meaning": "gift",
+      "literalMeaning": "gift",
       "keywords": [
         "gift",
         "exchange",
@@ -158,7 +158,7 @@
       "glyph": "ᚹ",
       "sound": "W",
       "aett": "Freyr's ætt",
-      "literal_meaning": "joy",
+      "literalMeaning": "joy",
       "keywords": [
         "joy",
         "harmony",
@@ -179,7 +179,7 @@
       "glyph": "ᚺ",
       "sound": "H",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "hail",
+      "literalMeaning": "hail",
       "keywords": [
         "disruption",
         "change",
@@ -200,7 +200,7 @@
       "glyph": "ᚾ",
       "sound": "N",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "need, constraint",
+      "literalMeaning": "need, constraint",
       "keywords": [
         "need",
         "limitation",
@@ -221,7 +221,7 @@
       "glyph": "ᛁ",
       "sound": "I",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "ice",
+      "literalMeaning": "ice",
       "keywords": [
         "stillness",
         "pause",
@@ -242,7 +242,7 @@
       "glyph": "ᛃ",
       "sound": "J",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "year, harvest",
+      "literalMeaning": "year, harvest",
       "keywords": [
         "harvest",
         "cycles",
@@ -263,7 +263,7 @@
       "glyph": "ᛇ",
       "sound": "Ei / Ï",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "yew",
+      "literalMeaning": "yew",
       "keywords": [
         "endurance",
         "protection",
@@ -284,7 +284,7 @@
       "glyph": "ᛈ",
       "sound": "P",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "lot cup (meaning uncertain)",
+      "literalMeaning": "lot cup (meaning uncertain)",
       "keywords": [
         "mystery",
         "fate",
@@ -305,7 +305,7 @@
       "glyph": "ᛉ",
       "sound": "Z / R",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "elk, protection",
+      "literalMeaning": "elk, protection",
       "keywords": [
         "protection",
         "guardianship",
@@ -326,7 +326,7 @@
       "glyph": "ᛊ",
       "sound": "S",
       "aett": "Heimdall's ætt",
-      "literal_meaning": "sun",
+      "literalMeaning": "sun",
       "keywords": [
         "success",
         "vitality",
@@ -347,7 +347,7 @@
       "glyph": "ᛏ",
       "sound": "T",
       "aett": "Tyr's ætt",
-      "literal_meaning": "the god Tyr",
+      "literalMeaning": "the god Tyr",
       "keywords": [
         "justice",
         "courage",
@@ -368,7 +368,7 @@
       "glyph": "ᛒ",
       "sound": "B",
       "aett": "Tyr's ætt",
-      "literal_meaning": "birch",
+      "literalMeaning": "birch",
       "keywords": [
         "birth",
         "growth",
@@ -389,7 +389,7 @@
       "glyph": "ᛖ",
       "sound": "E",
       "aett": "Tyr's ætt",
-      "literal_meaning": "horse",
+      "literalMeaning": "horse",
       "keywords": [
         "movement",
         "partnership",
@@ -410,7 +410,7 @@
       "glyph": "ᛗ",
       "sound": "M",
       "aett": "Tyr's ætt",
-      "literal_meaning": "human being",
+      "literalMeaning": "human being",
       "keywords": [
         "self",
         "community",
@@ -431,7 +431,7 @@
       "glyph": "ᛚ",
       "sound": "L",
       "aett": "Tyr's ætt",
-      "literal_meaning": "water, lake",
+      "literalMeaning": "water, lake",
       "keywords": [
         "intuition",
         "flow",
@@ -452,7 +452,7 @@
       "glyph": "ᛜ",
       "sound": "Ng",
       "aett": "Tyr's ætt",
-      "literal_meaning": "the god Ing",
+      "literalMeaning": "the god Ing",
       "keywords": [
         "fertility",
         "completion",
@@ -473,7 +473,7 @@
       "glyph": "ᛞ",
       "sound": "D",
       "aett": "Tyr's ætt",
-      "literal_meaning": "day",
+      "literalMeaning": "day",
       "keywords": [
         "breakthrough",
         "awakening",
@@ -494,7 +494,7 @@
       "glyph": "ᛟ",
       "sound": "O",
       "aett": "Tyr's ætt",
-      "literal_meaning": "inheritance, homeland",
+      "literalMeaning": "inheritance, homeland",
       "keywords": [
         "heritage",
         "home",
