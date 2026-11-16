@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "system": "Elder Futhark",
+  "note": "Meanings are drawn from the medieval rune poems and from modern divinatory practice (20th-century authors). Reversal conventions vary between teachers.",
+  "runes": [
+    {
+      "number": 1,
+      "id": "fehu",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/fehu.png",
+      "name": "Fehu",
+      "glyph": "ᚠ",
+      "sound": "F",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "cattle, wealth",
+      "keywords": [
+        "wealth",
+        "abundance",
+        "new beginnings",
+        "energy"
+      ],
+      "meaning": "Fehu is mobile wealth: the cattle that gave early communities their security. It speaks of resources that flow, grow and must be shared.",
+      "upright": "Income, opportunity and creative energy are available. Use resources well, share them, and a new venture can prosper.",
+      "reversed": "Loss, stagnation or greed. Resources are blocked or being hoarded; check where your energy is leaking.",
+      "reversible": true,
+      "affirmation": "I attract abundance and use it wisely."
+    },
+    {
+      "number": 2,
+      "id": "uruz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/uruz.png",
+      "name": "Uruz",
+      "glyph": "ᚢ",
+      "sound": "U",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "aurochs",
+      "keywords": [
+        "strength",
+        "vitality",
+        "health",
+        "raw power"
+      ],
+      "meaning": "The aurochs was a huge wild ox. Uruz is untamed vital force, endurance and the drive to grow.",
+      "upright": "Physical and inner strength are high. Take on a challenge, build stamina and trust your will.",
+      "reversed": "Weakness, missed chances or misdirected force. Rest, rebuild, and avoid forcing outcomes.",
+      "reversible": true,
+      "affirmation": "I have the strength to meet what comes."
+    },
+    {
+      "number": 3,
+      "id": "thurisaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/thurisaz.png",
+      "name": "Thurisaz",
+      "glyph": "ᚦ",
+      "sound": "Th",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "giant, thorn",
+      "keywords": [
+        "protection",
+        "conflict",
+        "threshold",
+        "reaction"
+      ],
+      "meaning": "Thurisaz is the thorn and the giant: a defensive force that can guard or wound. It marks a gateway where you must act with awareness.",
+      "upright": "Defend your boundaries and pause before reacting. A decisive step is possible, but think before you strike.",
+      "reversed": "Vulnerability or impulsive conflict. Beware of rash words and avoid walking into danger unprepared.",
+      "reversible": true,
+      "affirmation": "I set firm boundaries and act with awareness."
+    },
+    {
+      "number": 4,
+      "id": "ansuz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ansuz.png",
+      "name": "Ansuz",
+      "glyph": "ᚨ",
+      "sound": "A",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "a god, mouth",
+      "keywords": [
+        "communication",
+        "wisdom",
+        "inspiration",
+        "message"
+      ],
+      "meaning": "Ansuz is the divine breath and spoken word, linked to Odin and to the power of speech, poetry and insight.",
+      "upright": "A message, teaching or inspiration arrives. Listen carefully and speak clearly and honestly.",
+      "reversed": "Miscommunication, deceit or ignored advice. Check your words and your sources.",
+      "reversible": true,
+      "affirmation": "I speak truth and listen for wisdom."
+    },
+    {
+      "number": 5,
+      "id": "raido",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/raido.png",
+      "name": "Raido",
+      "glyph": "ᚱ",
+      "sound": "R",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "ride, journey",
+      "keywords": [
+        "journey",
+        "movement",
+        "rhythm",
+        "right action"
+      ],
+      "meaning": "Raido is the road and the ride, both an actual journey and the rhythm of a life moving in order.",
+      "upright": "Travel, progress and a clear plan. Keep to the right path and the right pace.",
+      "reversed": "Delay, disruption or a wrong turn. Rethink the route before you continue.",
+      "reversible": true,
+      "affirmation": "I move forward with purpose and rhythm."
+    },
+    {
+      "number": 6,
+      "id": "kenaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/kano.png",
+      "name": "Kenaz",
+      "glyph": "ᚲ",
+      "sound": "K",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "torch",
+      "keywords": [
+        "knowledge",
+        "creativity",
+        "illumination",
+        "skill"
+      ],
+      "meaning": "Kenaz is the torch: light in the dark, the fire of craft and the flash of understanding.",
+      "upright": "Insight, creativity and skill. Something becomes clear, so shape it into something useful.",
+      "reversed": "Fading light, creative block or burnout. Rest the flame and tend it gently.",
+      "reversible": true,
+      "affirmation": "I bring light to what I create."
+    },
+    {
+      "number": 7,
+      "id": "gebo",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/gebo.png",
+      "name": "Gebo",
+      "glyph": "ᚷ",
+      "sound": "G",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "gift",
+      "keywords": [
+        "gift",
+        "exchange",
+        "partnership",
+        "generosity"
+      ],
+      "meaning": "Gebo is the gift and the bond it creates. Giving and receiving in balance holds relationships together.",
+      "upright": "A fair exchange, a generous gift or a partnership. Give freely and accept gratefully.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I give and receive in balance."
+    },
+    {
+      "number": 8,
+      "id": "wunjo",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/wunjo.png",
+      "name": "Wunjo",
+      "glyph": "ᚹ",
+      "sound": "W",
+      "aett": "Freyr's ætt",
+      "literal_meaning": "joy",
+      "keywords": [
+        "joy",
+        "harmony",
+        "fellowship",
+        "fulfilment"
+      ],
+      "meaning": "Wunjo is joy and belonging, the contentment of being among your own people and in tune with your life.",
+      "upright": "Happiness, success and harmony. Enjoy what is good and share it.",
+      "reversed": "Sorrow, isolation or delay of joy. Reconnect with people and things that restore you.",
+      "reversible": true,
+      "affirmation": "I welcome joy into my life."
+    },
+    {
+      "number": 9,
+      "id": "hagalaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/hagalaz.png",
+      "name": "Hagalaz",
+      "glyph": "ᚺ",
+      "sound": "H",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "hail",
+      "keywords": [
+        "disruption",
+        "change",
+        "testing",
+        "release"
+      ],
+      "meaning": "Hagalaz is hail: a sudden force from outside that destroys and clears. Its damage often makes room for new growth.",
+      "upright": "Unexpected disruption you cannot control. Stay steady, accept the change and look for what it clears.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I stay steady through change."
+    },
+    {
+      "number": 10,
+      "id": "nauthiz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/nauthiz.png",
+      "name": "Nauthiz",
+      "glyph": "ᚾ",
+      "sound": "N",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "need, constraint",
+      "keywords": [
+        "need",
+        "limitation",
+        "endurance",
+        "resourcefulness"
+      ],
+      "meaning": "Nauthiz is need-fire: friction and scarcity that force resourcefulness and show what truly matters.",
+      "upright": "A period of constraint. Know your real needs, be patient and work with what you have.",
+      "reversed": "Deprivation or struggle made worse by denial. Ask for help and meet real needs.",
+      "reversible": true,
+      "affirmation": "I meet my needs with patience and courage."
+    },
+    {
+      "number": 11,
+      "id": "isa",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/isa.png",
+      "name": "Isa",
+      "glyph": "ᛁ",
+      "sound": "I",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "ice",
+      "keywords": [
+        "stillness",
+        "pause",
+        "clarity",
+        "stagnation"
+      ],
+      "meaning": "Isa is ice: a halt in motion that can preserve, protect or block.",
+      "upright": "A pause or standstill. Conserve energy, wait and use the time to see clearly.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I rest in stillness and wait for the thaw."
+    },
+    {
+      "number": 12,
+      "id": "jera",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/jera.png",
+      "name": "Jera",
+      "glyph": "ᛃ",
+      "sound": "J",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "year, harvest",
+      "keywords": [
+        "harvest",
+        "cycles",
+        "reward",
+        "patience"
+      ],
+      "meaning": "Jera is the turning year and the harvest that follows the planting. Results come in their season.",
+      "upright": "Patient effort is paid back. Trust natural timing and enjoy the harvest.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I trust the cycles and enjoy the harvest."
+    },
+    {
+      "number": 13,
+      "id": "eihwaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/eihwaz.png",
+      "name": "Eihwaz",
+      "glyph": "ᛇ",
+      "sound": "Ei / Ï",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "yew",
+      "keywords": [
+        "endurance",
+        "protection",
+        "transformation",
+        "resilience"
+      ],
+      "meaning": "Eihwaz is the yew, an evergreen tied to endurance and to the passage between life and death.",
+      "upright": "Persistence through difficulty. A deep change is underway and your roots will hold.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I endure and grow stronger."
+    },
+    {
+      "number": 14,
+      "id": "perthro",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/rerth.png",
+      "name": "Perthro",
+      "glyph": "ᛈ",
+      "sound": "P",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "lot cup (meaning uncertain)",
+      "keywords": [
+        "mystery",
+        "fate",
+        "chance",
+        "hidden things"
+      ],
+      "meaning": "The original meaning of Perthro is uncertain, and the rune poems say little. It is usually read as the lot-cup or dice box, representing fate and the unknown.",
+      "upright": "Hidden information, luck and surprise. Be open to what is revealed.",
+      "reversed": "Secrets, stagnation or unwelcome news. Do not gamble on guesses.",
+      "reversible": true,
+      "affirmation": "I accept mystery and trust the process."
+    },
+    {
+      "number": 15,
+      "id": "algiz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/algiz.png",
+      "name": "Algiz",
+      "glyph": "ᛉ",
+      "sound": "Z / R",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "elk, protection",
+      "keywords": [
+        "protection",
+        "guardianship",
+        "higher connection",
+        "defence"
+      ],
+      "meaning": "Algiz is often read as an elk's antlers or an open hand: a protective sign and a link between earth and sky.",
+      "upright": "You are protected. Stay alert, trust your instincts and ask for support.",
+      "reversed": "Vulnerability or poor judgement. Check your defences and avoid risks you cannot see.",
+      "reversible": true,
+      "affirmation": "I am protected and guided."
+    },
+    {
+      "number": 16,
+      "id": "sowilo",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/sowelu.png",
+      "name": "Sowilo",
+      "glyph": "ᛊ",
+      "sound": "S",
+      "aett": "Heimdall's ætt",
+      "literal_meaning": "sun",
+      "keywords": [
+        "success",
+        "vitality",
+        "guidance",
+        "wholeness"
+      ],
+      "meaning": "Sowilo is the sun: energy, victory and a clear direction.",
+      "upright": "Success, clarity and renewed energy. Follow your purpose.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I walk in light and succeed."
+    },
+    {
+      "number": 17,
+      "id": "tiwaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/teiwaz.png",
+      "name": "Tiwaz",
+      "glyph": "ᛏ",
+      "sound": "T",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "the god Tyr",
+      "keywords": [
+        "justice",
+        "courage",
+        "honour",
+        "sacrifice"
+      ],
+      "meaning": "Tiwaz is the sky god Tyr, linked to law and justice and to the sacrifice of his hand to bind Fenrir.",
+      "upright": "Courage and integrity. Do the right thing even at a cost; fight fairly.",
+      "reversed": "Injustice, cowardice or a loss of direction. Review your motives and your honesty.",
+      "reversible": true,
+      "affirmation": "I act with courage and honour."
+    },
+    {
+      "number": 18,
+      "id": "berkano",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/berkana.png",
+      "name": "Berkano",
+      "glyph": "ᛒ",
+      "sound": "B",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "birch",
+      "keywords": [
+        "birth",
+        "growth",
+        "renewal",
+        "nurturing"
+      ],
+      "meaning": "Berkano is the birch, a pioneer tree of early spring, linked to birth, fertility and care.",
+      "upright": "New growth, a fresh start and nurturing. Care for what is beginning.",
+      "reversed": "Stalled growth or family worries. Look for the neglected area that needs attention.",
+      "reversible": true,
+      "affirmation": "I nurture new beginnings."
+    },
+    {
+      "number": 19,
+      "id": "ehwaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/ehwaz.png",
+      "name": "Ehwaz",
+      "glyph": "ᛖ",
+      "sound": "E",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "horse",
+      "keywords": [
+        "movement",
+        "partnership",
+        "trust",
+        "progress"
+      ],
+      "meaning": "Ehwaz is the horse and the partnership between horse and rider, based on trust and teamwork.",
+      "upright": "Steady progress through cooperation. Trust your partner and move forward together.",
+      "reversed": "Restlessness or mistrust. A change is unsettled, so slow down and rebuild trust.",
+      "reversible": true,
+      "affirmation": "I move forward with trust."
+    },
+    {
+      "number": 20,
+      "id": "mannaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/mannaz.png",
+      "name": "Mannaz",
+      "glyph": "ᛗ",
+      "sound": "M",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "human being",
+      "keywords": [
+        "self",
+        "community",
+        "intellect",
+        "cooperation"
+      ],
+      "meaning": "Mannaz represents humanity and your place within it, both as an individual and as part of a group.",
+      "upright": "Self-knowledge and cooperation. Draw on community and share your abilities.",
+      "reversed": "Isolation or conflict with others. Check how you relate to the people around you.",
+      "reversible": true,
+      "affirmation": "I am part of something greater."
+    },
+    {
+      "number": 21,
+      "id": "laguz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/lagus.png",
+      "name": "Laguz",
+      "glyph": "ᛚ",
+      "sound": "L",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "water, lake",
+      "keywords": [
+        "intuition",
+        "flow",
+        "emotion",
+        "the unconscious"
+      ],
+      "meaning": "Laguz is water: feeling, intuition and the hidden currents of life.",
+      "upright": "Trust intuition and go with the flow. Dreams and feelings are guides.",
+      "reversed": "Confusion, fear or emotional overwhelm. Find solid ground before deciding.",
+      "reversible": true,
+      "affirmation": "I trust my intuition and flow with life."
+    },
+    {
+      "number": 22,
+      "id": "ingwaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/inguz.png",
+      "name": "Ingwaz",
+      "glyph": "ᛜ",
+      "sound": "Ng",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "the god Ing",
+      "keywords": [
+        "fertility",
+        "completion",
+        "potential",
+        "rest"
+      ],
+      "meaning": "Ingwaz is linked to the god Ing (Freyr). It shows energy stored and ready to be released, a seed at the point of germination.",
+      "upright": "A phase is completing and a new one is ready. Gather your strength, then act.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I complete what I start and welcome what is next."
+    },
+    {
+      "number": 23,
+      "id": "dagaz",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/dagaz.png",
+      "name": "Dagaz",
+      "glyph": "ᛞ",
+      "sound": "D",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "day",
+      "keywords": [
+        "breakthrough",
+        "awakening",
+        "transformation",
+        "hope"
+      ],
+      "meaning": "Dagaz is day, the moment when light replaces darkness and a threshold is crossed.",
+      "upright": "A breakthrough or turning point. Welcome the new dawn.",
+      "reversed": null,
+      "reversible": false,
+      "affirmation": "I awaken to a new dawn."
+    },
+    {
+      "number": 24,
+      "id": "othala",
+      "image": "https://gksreenivasan.github.io/SacredCode/V1/Runes/othila.png",
+      "name": "Othala",
+      "glyph": "ᛟ",
+      "sound": "O",
+      "aett": "Tyr's ætt",
+      "literal_meaning": "inheritance, homeland",
+      "keywords": [
+        "heritage",
+        "home",
+        "property",
+        "roots"
+      ],
+      "meaning": "Othala is ancestral land and inheritance: what is passed down, and where you truly belong.",
+      "upright": "Home, family and roots. Honour what you inherit and secure what is yours.",
+      "reversed": "Clinging to the past or a family dispute. Let go of what no longer serves you.",
+      "reversible": true,
+      "affirmation": "I honour my roots and make a home."
+    }
+  ]
+}
