@@ -6,67 +6,80 @@
     {
       "number": "111",
       "caption": "New Beginning",
-      "description": "The 111 angel number is letting you know that opportunities, growth, and change could be on your horizon, you just have to be open to the possibilities that present themself to you."
+      "description": "The 111 angel number is letting you know that opportunities, growth, and change could be on your horizon, you just have to be open to the possibilities that present themself to you.",
+      "affirmation": "I welcome new beginnings with an open mind and open heart"
     },
     {
       "number": "222",
       "caption": "Balance and Patience",
-      "description": "The presence of two suggests balance, trust, and alignment. This master number in numerology suggests that you are on the right path."
+      "description": "The presence of two suggests balance, trust, and alignment. This master number in numerology suggests that you are on the right path.",
+      "affirmation": "I am balanced in mind, body, and spirit"
     },
     {
       "number": "333",
       "caption": "Divine Guidance and Support",
-      "description": "The meaning behind the 333 angel number is that you shouldn’t let doubt stop you from moving forward, at least you’ have the universe on your side."
+      "description": "The meaning behind the 333 angel number is that you shouldn’t let doubt stop you from moving forward, at least you’ have the universe on your side.",
+      "affirmation": "I am open to receiving clear guidance for my next step"
     },
     {
       "number": "444",
       "caption": "Protection",
-      "description": "This number is the sign you were looking for to keep your eye on the prize! Trust that everything happens in its own divine time and your guardian angel is by your side. The 444 angel number is telling you that you will come out on the other side alright."
+      "description": "This number is the sign you were looking for to keep your eye on the prize! Trust that everything happens in its own divine time and your guardian angel is by your side. The 444 angel number is telling you that you will come out on the other side alright.",
+      "affirmation": "I am surrounded by a calm, protective shield of light"
     },
     {
       "number": "555",
       "caption": "Change",
-      "description": "It’s a time for transformation. A new better path is emerging, you owe it to yourself to take the best foot forward."
+      "description": "It’s a time for transformation. A new better path is emerging, you owe it to yourself to take the best foot forward.",
+      "affirmation": "I am equipped with the power to change my life"
     },
     {
       "number": "666",
       "caption": "Reflect",
-      "description": "This numerical sequence has a bad reputation, but the 666 angel number is not scary! Shift your perspective and control your negative thoughts to look at things in a new light."
+      "description": "This numerical sequence has a bad reputation, but the 666 angel number is not scary! Shift your perspective and control your negative thoughts to look at things in a new light.",
+      "affirmation": "I look back on my experiences with honesty and calm"
     },
     {
       "number": "777",
       "caption": "Spiritual Growth",
-      "description": "The 777 angel number tells you to tap into your individual gifts to reach your highest potential."
+      "description": "The 777 angel number tells you to tap into your individual gifts to reach your highest potential.",
+      "affirmation": "I trust my intuition and move forward with clarity"
     },
     {
       "number": "888",
       "caption": "Abundance",
-      "description": "Seeing the 888 angel number isn’t just a coincidence it is a sign to reflect on what is disrupting your energy (or who)! It is time to let go of the responsibilities that are not your weight to carry."
+      "description": "Seeing the 888 angel number isn’t just a coincidence it is a sign to reflect on what is disrupting your energy (or who)! It is time to let go of the responsibilities that are not your weight to carry.",
+      "affirmation": "I am worthy of prosperity, joy, and success"
     },
     {
       "number": "999",
       "caption": "Ending and Closure",
-      "description": "Nine represents completion, wisdom, and transformation. When 999 or 9999 appears, it may signal the end of one journey and the beginning of another. It encourages release of what no longer serves you, allowing space for renewal."
+      "description": "Nine represents completion, wisdom, and transformation. When 999 or 9999 appears, it may signal the end of one journey and the beginning of another. It encourages release of what no longer serves you, allowing space for renewal.",
+      "affirmation": "Every ending creates space for clarity, peace, and growth"
     },
     {
       "number": "000",
       "caption": "Infinite Possibility",
-      "description": "Zero represents infinite potential and new beginnings. Seeing 000 or 0000 can suggest that you’re entering a period of renewal or reset."
+      "description": "Zero represents infinite potential and new beginnings. Seeing 000 or 0000 can suggest that you’re entering a period of renewal or reset.",
+      "affirmation": "Everything is working out for my highest good"
     },
     {
       "number": "1010",
       "caption": "Opportunities & Expansion",
-      "description": "Everything is working out for you. Moving toward a higher purpose."
+      "description": "Everything is working out for you. Moving toward a higher purpose.",
+      "affirmation": "I am growing every day and welcoming new beginnings"
     },
     {
       "number": "1111",
-      "caption": "Manifestation.",
-      "description": "You’re blessed and watched over by angels. Remain optimistic and have faith in your journey."
+      "caption": "Make A Wish",
+      "description": "You’re blessed and watched over by angels. Remain optimistic and have faith in your journey.",
+      "affirmation": "I am exactly where I am meant to be"
     },
     {
       "number": "1212",
       "caption": "Positive Progress",
-      "description": "Luck in love. Obstacles are being removed from your path."
+      "description": "Luck in love. Obstacles are being removed from your path.",
+      "affirmation": "I am on the right path, and every step moves me forward"
     }
   ]
 }
