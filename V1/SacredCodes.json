@@ -56,6 +56,43 @@
     {
       "code": "70",
       "description": "Angel of Love"
+    },
+
+    {
+      "code": "46429",
+      "description": "Lord Ganesha"
+    },
+    {
+      "code": "351",
+      "description": "Lord Shiva"
+    },
+    {
+      "code": "2918",
+      "description": "Goddess Lakshmi"
+    },
+    {
+      "code": "110",
+      "description": "Buddha"
+    },
+    {
+      "code": "333",
+      "description": "Mother Mary"
+    },
+    {
+      "code": "286",
+      "description": "Kwan Yin"
+    },
+    {
+      "code": "518",
+      "description": "White Tara"
+    },
+    {
+      "code": "517",
+      "description": "Green Tara"
+    },
+    {
+      "code": "225, 997, or 125",
+      "description": "Babaji"
     }
   ]
 }
